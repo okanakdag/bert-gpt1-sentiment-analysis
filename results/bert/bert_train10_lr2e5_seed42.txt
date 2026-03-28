@@ -1,0 +1,17 @@
+dataset_rows: 50000
+num_epochs: 3
+train_fraction: 0.1000
+train_samples: 3499
+validation_samples: 5000
+test_samples: 10001
+best_epoch: 3
+validation_loss: 0.3463
+validation_accuracy: 0.8982
+validation_precision: 0.8890
+validation_recall: 0.9100
+validation_f1: 0.8994
+test_loss: 0.3431
+test_accuracy: 0.9027
+test_precision: 0.8953
+test_recall: 0.9120
+test_f1: 0.9036

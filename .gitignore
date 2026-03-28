@@ -1,0 +1,26 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Training outputs
+results/**/*.pt
+results/**/*.bin
+results/**/*.json
+results/**/*.log
+results/**/*.safetensors
+
+# Dataset files
+data/*.csv
+data/*.zip
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# misc
+report.docx
